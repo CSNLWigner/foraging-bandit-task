@@ -106,3 +106,7 @@ Panels not listed (Fig. 1a-c, g, Fig. 3a, Fig. 5a-b, Supp. Fig. 2 and Supp. Fig.
 ## Source data
 
 The notebooks also export the data plotted in each figure panel (with [popy/source_data.py](popy/source_data.py)): `source_data/Source Data.xlsx` has one sheet per panel (e.g. `Figure 2a`) with a short description and the data table(s); `source_data/csv/<panel>/` has the same tables as CSV files.
+
+## Acknowledgements
+
+The code documentation (docstrings, comments and this README) was written with the help of Claude Opus 5.5 (`claude-opus-5-5`, Anthropic), and reviewed by the author.
