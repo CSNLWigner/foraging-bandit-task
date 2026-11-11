@@ -1,0 +1,12 @@
+results/
+source_data/csv/
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+*.log
+*.nc
+*.pkl
+*.csv
+logs/
+.DS_Store
+.vscode/
